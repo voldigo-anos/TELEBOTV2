@@ -1,17 +1,17 @@
 {
-  "botToken": "Bot_Token",
+  "botToken": "7576017974:AAFI-hM8zWlv_grtJqXRBOU293YF-px4AFY",
   "mongoURI": "MOngoDB_URI",
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
-  "prefix": "/",
+  "prefix": "@",
   "adminId": [
-    "5947023314",
-    "6550312881",
-    "5492951949"
+    "8294554523",
+    "",
+    ""
   ],
-  "owner": "5947023314",
+  "owner": "8294554523",
   "onlyAdmin": false,
   "port": "3000",
-  "botName": "Yukai Bot",
+  "botName": "🐉 | Yukai",
   "copyrightMark": "[ 🐉 | Yukai ]",
   "greetNewMembers": {
     "enabled": true,
